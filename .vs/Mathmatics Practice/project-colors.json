@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94d60a21-85cd-48a5-b760-e1d0b7297977": {
+      "ProjectGuid": "94d60a21-85cd-48a5-b760-e1d0b7297977",
+      "DisplayName": "Multiplication_Tutorial",
+      "ColorIndex": 0
+    },
+    "b76bcc7a-7a6c-4d45-902c-2de2ac868f05": {
+      "ProjectGuid": "b76bcc7a-7a6c-4d45-902c-2de2ac868f05",
+      "DisplayName": "Division_Tutorial",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

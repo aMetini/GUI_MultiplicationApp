@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.Properties.Resources.resources
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\bin\Debug\Multiplication_Tutorial.exe.config
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\bin\Debug\Multiplication_Tutorial.exe
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\bin\Debug\Multiplication_Tutorial.pdb
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.exe
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.pdb
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.csproj.CopyComplete
+C:\Users\admin\source\repos\Multiplication_Tutorial\Multiplication_Tutorial\obj\Debug\Multiplication_Tutorial.Multiplication_Worksheet.resources

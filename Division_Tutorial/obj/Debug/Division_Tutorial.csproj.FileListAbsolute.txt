@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\bin\Debug\Division_Tutorial.exe.config
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\bin\Debug\Division_Tutorial.exe
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\bin\Debug\Division_Tutorial.pdb
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.Divison_Worksheet.resources
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.Properties.Resources.resources
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.exe
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.pdb
+C:\Users\admin\source\repos\Multiplication_Tutorial\Division_Tutorial\obj\Debug\Division_Tutorial.csproj.AssemblyReference.cache
